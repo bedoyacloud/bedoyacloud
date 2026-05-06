@@ -44,7 +44,7 @@ Most AI engineers can train a model. Far fewer can also **deploy, secure, monito
 
 For recruiters and collaborators — please reach out via **LinkedIn**:
 
-🔗 [LinkedIn — Carlos Bedoya](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) *(update with your real URL)*
+🔗 [LinkedIn — Carlos Bedoya](https://www.linkedin.com/in/carlosbedoya/)
 🔗 [my-ai-learning-journey](https://github.com/bedoyacloud/my-ai-learning-journey) — public AI learning portfolio
 
 ---
